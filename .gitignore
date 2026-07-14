@@ -1,2 +1,3 @@
 .venv/*
 hendriatna-service-account.json
+*.pyc
